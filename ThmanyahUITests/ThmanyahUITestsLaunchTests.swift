@@ -1,13 +1,13 @@
 //
-//  ThmanyahTaskUITestsLaunchTests.swift
-//  ThmanyahTaskUITests
+//  ThmanyahUITestsLaunchTests.swift
+//  ThmanyahUITests
 //
 //  Created by Abdallah Omar on 18/08/2025.
 //
 
 import XCTest
 
-final class ThmanyahTaskUITestsLaunchTests: XCTestCase {
+final class ThmanyahUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
